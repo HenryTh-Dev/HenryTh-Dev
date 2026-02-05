@@ -16,7 +16,7 @@
   <img align="center" alt="Laravel" height="50" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" />
   <img align="center" alt=".NET" height="50" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   <img align="center" alt="PHP" height="50" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="PHP" height="50" width="60"
