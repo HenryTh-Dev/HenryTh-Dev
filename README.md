@@ -11,10 +11,14 @@
 </div>
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
-  <img align="center" alt=".NET" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Csharp" height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Laravel" height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" />
+  <img align="center" alt=".NET" height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img align="center" alt="PHP" height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 <br /> 
