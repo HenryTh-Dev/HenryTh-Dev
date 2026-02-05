@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db4444&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henry+Thiago;I'm+23+years+old;I'm+a+software+developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Henry+Thiago;I'm+23+years+old;I'm+a+Software+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br />
 
@@ -12,7 +12,9 @@
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/48/000000/net-framework.png">
+  <img align="center" alt="Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
+  <img align="center" alt=".NET" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
 
 <br /> 
